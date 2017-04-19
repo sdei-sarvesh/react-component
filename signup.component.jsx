@@ -32,7 +32,6 @@ class Signup extends React.Component {
         this.onCompanyChange = this.onCompanyChange.bind(this);
         this.onConfirmChange = this.onConfirmChange.bind(this);
         this.onSignupHandler = this.onSignupHandler.bind(this);
-        this.triggerLabel = this.triggerLabel.bind(this);
     }
 
     componentDidMount() {
